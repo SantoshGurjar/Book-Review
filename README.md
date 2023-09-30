@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-A simple Calculator using React.js
-
 ## Available Scripts
 
 In the project directory, you can run:
