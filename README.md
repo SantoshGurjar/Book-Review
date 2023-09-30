@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Before running run `npm install react-icon --save` to get the required react icons.
-In the project directory, you can run:
+Before starting, run `npm install react-icon --save` to get the required react icons.
+In the project directory, then you can start react server:
 
 ### `npm start`
 
